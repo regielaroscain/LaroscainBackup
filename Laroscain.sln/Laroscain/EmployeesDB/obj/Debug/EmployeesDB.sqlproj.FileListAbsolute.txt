@@ -1,6 +1,0 @@
-D:\VIP2025\Laroscain.sln\Laroscain\EmployeesDB\bin\Debug\EmployeesDB.dacpac
-D:\VIP2025\Laroscain.sln\Laroscain\EmployeesDB\bin\Debug\EmployeesDB.dll
-D:\VIP2025\Laroscain.sln\Laroscain\EmployeesDB\bin\Debug\EmployeesDB.pdb
-D:\VIP2025\Laroscain.sln\Laroscain\EmployeesDB\obj\Debug\EmployeesDB.sqlproj.AssemblyReference.cache
-D:\VIP2025\Laroscain.sln\Laroscain\EmployeesDB\obj\Debug\EmployeesDB.dll
-D:\VIP2025\Laroscain.sln\Laroscain\EmployeesDB\obj\Debug\EmployeesDB.pdb
