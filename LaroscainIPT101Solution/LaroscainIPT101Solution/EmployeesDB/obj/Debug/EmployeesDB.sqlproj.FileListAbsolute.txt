@@ -1,0 +1,10 @@
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\EmployeesDB\bin\Debug\EmployeesDB.dacpac
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\EmployeesDB\bin\Debug\EmployeesDB.dll
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\EmployeesDB\bin\Debug\EmployeesDB.pdb
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\EmployeesDB\obj\Debug\EmployeesDB.sqlproj.AssemblyReference.cache
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\EmployeesDB\obj\Debug\EmployeesDB.dll
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\EmployeesDB\obj\Debug\EmployeesDB.pdb
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\EmployeesDB\obj\Debug\Model.xml
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\EmployeesDB\obj\Debug\refactor.xml
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\EmployeesDB\obj\Debug\postdeploy.sql
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\EmployeesDB\obj\Debug\predeploy.sql

@@ -1,0 +1,17 @@
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\obj\Debug\net6.0\LaroscainFramework.csproj.AssemblyReference.cache
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\obj\Debug\net6.0\LaroscainFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\obj\Debug\net6.0\LaroscainFramework.AssemblyInfoInputs.cache
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\obj\Debug\net6.0\LaroscainFramework.AssemblyInfo.cs
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\obj\Debug\net6.0\LaroscainFramework.csproj.CoreCompileInputs.cache
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\bin\Debug\net6.0\LaroscainFramework.deps.json
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\bin\Debug\net6.0\LaroscainFramework.runtimeconfig.json
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\bin\Debug\net6.0\LaroscainFramework.dll
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\bin\Debug\net6.0\LaroscainFramework.pdb
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\bin\Debug\net6.0\LaroscainDomain.dll
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\bin\Debug\net6.0\LaroscainDomain.pdb
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\obj\Debug\net6.0\Laroscai.9092062B.Up2Date
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\obj\Debug\net6.0\LaroscainFramework.dll
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\obj\Debug\net6.0\refint\LaroscainFramework.dll
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\obj\Debug\net6.0\LaroscainFramework.pdb
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\obj\Debug\net6.0\LaroscainFramework.genruntimeconfig.cache
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainFramework\obj\Debug\net6.0\ref\LaroscainFramework.dll

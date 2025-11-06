@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using LaroscainIPT101Solution.LaroscainDomain.Models;
+
+namespace LaroscainIPT101Solution.LaroscainDomain.Commands
+{
+    public interface IUpdateYouTubeViewerCommand
+    {
+        Task Execute(YouTubeViewer youTubeViewer);
+    }
+}

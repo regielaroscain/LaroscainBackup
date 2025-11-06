@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LaroscainIPT101Solution\\LaroscainIPT101Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B798ECCE-8CF3-42DD-9E43-63CB0B1335A8}|LaroscainWPF\\LaroscainWPF.csproj|d:\\laroscainipt101solution\\laroscainipt101solution\\laroscainwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B798ECCE-8CF3-42DD-9E43-63CB0B1335A8}|LaroscainWPF\\LaroscainWPF.csproj|solutionrelative:laroscainwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B798ECCE-8CF3-42DD-9E43-63CB0B1335A8}|LaroscainWPF\\LaroscainWPF.csproj|d:\\laroscainipt101solution\\laroscainipt101solution\\laroscainwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B798ECCE-8CF3-42DD-9E43-63CB0B1335A8}|LaroscainWPF\\LaroscainWPF.csproj|solutionrelative:laroscainwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E9FB55-7FA7-492E-9AB5-3C32CC30B6EA}|LaroscainYouTubeViewer\\LaroscainYouTubeViewer.csproj|d:\\laroscainipt101solution\\laroscainipt101solution\\laroscainyoutubeviewer\\laroscainyoutubeviewer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4E9FB55-7FA7-492E-9AB5-3C32CC30B6EA}|LaroscainYouTubeViewer\\LaroscainYouTubeViewer.csproj|solutionrelative:laroscainyoutubeviewer\\laroscainyoutubeviewer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C565EC-6423-4C7D-BA57-2041D78079CD}|LaroscainFramework\\LaroscainFramework.csproj|d:\\laroscainipt101solution\\laroscainipt101solution\\laroscainframework\\migrations\\20251106023852_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C565EC-6423-4C7D-BA57-2041D78079CD}|LaroscainFramework\\LaroscainFramework.csproj|solutionrelative:laroscainframework\\migrations\\20251106023852_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LaroscainYouTubeViewer",
+              "DocumentMoniker": "D:\\LaroscainIPT101Solution\\LaroscainIPT101Solution\\LaroscainYouTubeViewer\\LaroscainYouTubeViewer.csproj",
+              "RelativeDocumentMoniker": "LaroscainYouTubeViewer\\LaroscainYouTubeViewer.csproj",
+              "ToolTip": "D:\\LaroscainIPT101Solution\\LaroscainIPT101Solution\\LaroscainYouTubeViewer\\LaroscainYouTubeViewer.csproj",
+              "RelativeToolTip": "LaroscainYouTubeViewer\\LaroscainYouTubeViewer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-06T02:48:47.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\LaroscainIPT101Solution\\LaroscainIPT101Solution\\LaroscainWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LaroscainWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\LaroscainIPT101Solution\\LaroscainIPT101Solution\\LaroscainWPF\\MainWindow.xaml",
+              "RelativeToolTip": "LaroscainWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T02:45:42.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\LaroscainIPT101Solution\\LaroscainIPT101Solution\\LaroscainWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaroscainWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\LaroscainIPT101Solution\\LaroscainIPT101Solution\\LaroscainWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LaroscainWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:45:41.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251106023852_Initial.cs",
+              "DocumentMoniker": "D:\\LaroscainIPT101Solution\\LaroscainIPT101Solution\\LaroscainFramework\\Migrations\\20251106023852_Initial.cs",
+              "RelativeDocumentMoniker": "LaroscainFramework\\Migrations\\20251106023852_Initial.cs",
+              "ToolTip": "D:\\LaroscainIPT101Solution\\LaroscainIPT101Solution\\LaroscainFramework\\Migrations\\20251106023852_Initial.cs",
+              "RelativeToolTip": "LaroscainFramework\\Migrations\\20251106023852_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:38:53.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

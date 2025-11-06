@@ -1,0 +1,11 @@
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainDomain\bin\Debug\net6.0\LaroscainDomain.deps.json
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainDomain\bin\Debug\net6.0\LaroscainDomain.dll
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainDomain\bin\Debug\net6.0\LaroscainDomain.pdb
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainDomain\obj\Debug\net6.0\LaroscainDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainDomain\obj\Debug\net6.0\LaroscainDomain.AssemblyInfoInputs.cache
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainDomain\obj\Debug\net6.0\LaroscainDomain.AssemblyInfo.cs
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainDomain\obj\Debug\net6.0\LaroscainDomain.csproj.CoreCompileInputs.cache
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainDomain\obj\Debug\net6.0\LaroscainDomain.dll
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainDomain\obj\Debug\net6.0\refint\LaroscainDomain.dll
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainDomain\obj\Debug\net6.0\LaroscainDomain.pdb
+D:\LaroscainIPT101Solution\LaroscainIPT101Solution\LaroscainDomain\obj\Debug\net6.0\ref\LaroscainDomain.dll
